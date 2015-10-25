@@ -93,4 +93,5 @@ function playToFive() {
     /* YOUR CODE HERE */
     return [playerWins, computerWins];
 }
-
+}
+playToFive()
